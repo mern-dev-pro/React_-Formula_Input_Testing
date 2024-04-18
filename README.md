@@ -1,4 +1,4 @@
-# React_-Formula_Input_Testing
+# React_Formula_Input_Testing
 
 #Clone Project here<br>
 git@github.com:mern-dev-pro/React_-Formula_Input_Testing.git
